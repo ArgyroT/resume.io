@@ -1,3 +1,8 @@
 body {
   background-color: rgb(233, 213, 194);
 }
+section {
+  background-color: cadetblue;
+  border-style: solid;
+  margin-bottom: 10;
+}
