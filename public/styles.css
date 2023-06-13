@@ -5,3 +5,13 @@ section {
   background-color: cadetblue;
   border-style: solid;
 }
+.title-class {
+  color: rgb(134, 12, 12);
+  text-align: center;
+}
+.nav-class {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
