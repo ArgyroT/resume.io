@@ -2,8 +2,8 @@ body {
   background-color: rgb(233, 213, 194);
 }
 section {
-  background-color: cadetblue;
-  border-style: solid;
+  background-color: rgb(119, 124, 109);
+  border-style: ridge;
 }
 .title-class {
   color: rgb(134, 12, 12);
@@ -12,6 +12,6 @@ section {
 .nav-class {
   text-align: center;
 }
-div {
+.image-class {
   text-align: center;
 }
