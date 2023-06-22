@@ -1,17 +1,25 @@
 body {
-  background-color: rgb(233, 213, 194);
+  background-color: bisque;
 }
-section {
-  background-color: rgb(119, 124, 109);
-  border-style: ridge;
-}
-.title-class {
-  color: rgb(134, 12, 12);
+h1 {
   text-align: center;
 }
-.nav-class {
-  text-align: center;
+.round-image {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
 }
-.image-class {
-  text-align: center;
+.image-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.list-container {
+  display: flex;
+  padding-right: 50px;
+  margin-top: 50px;
+}
+.nav-list {
+  display: flex;
+  justify-content: flex-start;
 }
